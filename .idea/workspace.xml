@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a11f4a2-95f7-4f27-8eec-39e6afba976c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/stockbacktest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/a.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/aaa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/caiwubaobiao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/caiwubaobiaogaigeshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/datacunchu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/deleteunnamed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/getstocklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hebing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/jisuanfuquanyinzi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/riqichongpai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sh600008_financial_statements.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/xiugairiqigeshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/threefactors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs300.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/get_return_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/getbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/getbuylist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/position.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/tick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/trade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/datetime_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/dict_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/stocklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/utils/tradingdate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2010_2016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2010_2016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/2016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/hs300.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/hs300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/huitu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz1000.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zz500.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cUwZfCMkDnmQEDuq7wgob5hn9E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a11f4a2-95f7-4f27-8eec-39e6afba976c" name="Default Changelist" comment="" />
+      <created>1590596536470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590596536470</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
