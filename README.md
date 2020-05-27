@@ -18,6 +18,8 @@ examples包含了策略例子<br>
 
 output中包含回测结果<br>
 
+output中的图片下载后可以显示<br>
+
 #项目使用
 -------
 
