@@ -30,3 +30,5 @@ output中包含回测结果<br>
 即from examples import threefactors as strategy<br>
 
 运行backtest.py即可获得回测结果<br>
+
+图片中红线为策略走势，以沪深300，中证500，中证1000的走势为参照标准<br>
