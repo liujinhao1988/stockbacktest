@@ -26,6 +26,7 @@ output中的图片下载后可以显示<br>
 先运行data文件夹中的datacunchu.py将数据导入mongodb（由于数据体积过大暂时没有上传）<br>
 
 在examples文件夹中写好策略逻辑<br>
+![carbon](https://github.com/user-attachments/assets/d6e3184e-63e4-4cea-872b-de7afc462d60)
 
 然后在backtest.py导入策略名称<br>
 
@@ -33,4 +34,5 @@ output中的图片下载后可以显示<br>
 
 运行backtest.py即可获得回测结果<br>
 
-图片中红线为策略走势，以沪深300，中证500，中证1000的走势为参照标准<br>
+图片中红线为策略走势，以中证1000的走势为参照标准<br>
+![毛利减销管取大](https://github.com/user-attachments/assets/bea1469d-04c0-42fd-960e-dbc463a093d9)
